@@ -3,10 +3,10 @@ c = 3 * 10^8;
 
 %%%%%%%%%%%%%%%%%%%%%%
 
-
+this is a change
 scripting from tirgul
-
-sent_signal = load("sigvec mat").sigvec; %loaded S
+awefawefawe
+sent_signal = load("sigvec mat").sigvec; %loadawefawefawef awefawef awefeed S
 
 recieved_signal =  load("delayvecs").r1vec; %loaded Y
 
